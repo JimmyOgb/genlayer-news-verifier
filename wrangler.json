@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "genlayer-news-verifier",
+  "name": "genlayer-news-verifier2",
   "compatibility_date": "2026-06-27",
   "observability": {
     "enabled": true
